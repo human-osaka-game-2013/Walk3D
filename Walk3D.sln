@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibGame", "..\LibGame\LibGame.vcxproj", "{E250857E-1150-4A3E-9FA4-AA0A8704E227}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Walk3D", "Walk3D.vcxproj", "{DDD72F49-27E6-4C03-8E25-4FF7FC5F8F92}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibUtil", "..\LibUtil\LibUtil.vcxproj", "{3B019313-32A5-4039-BCA1-34470AFC24C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E250857E-1150-4A3E-9FA4-AA0A8704E227}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E250857E-1150-4A3E-9FA4-AA0A8704E227}.Debug|Win32.Build.0 = Debug|Win32
+		{E250857E-1150-4A3E-9FA4-AA0A8704E227}.Release|Win32.ActiveCfg = Release|Win32
+		{E250857E-1150-4A3E-9FA4-AA0A8704E227}.Release|Win32.Build.0 = Release|Win32
+		{DDD72F49-27E6-4C03-8E25-4FF7FC5F8F92}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDD72F49-27E6-4C03-8E25-4FF7FC5F8F92}.Debug|Win32.Build.0 = Debug|Win32
+		{DDD72F49-27E6-4C03-8E25-4FF7FC5F8F92}.Release|Win32.ActiveCfg = Release|Win32
+		{DDD72F49-27E6-4C03-8E25-4FF7FC5F8F92}.Release|Win32.Build.0 = Release|Win32
+		{3B019313-32A5-4039-BCA1-34470AFC24C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B019313-32A5-4039-BCA1-34470AFC24C8}.Debug|Win32.Build.0 = Debug|Win32
+		{3B019313-32A5-4039-BCA1-34470AFC24C8}.Release|Win32.ActiveCfg = Release|Win32
+		{3B019313-32A5-4039-BCA1-34470AFC24C8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
